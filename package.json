@@ -1,15 +1,24 @@
 {
-  "name": "scaffold-tmp",
+  "name": "top-solaire-sghaier",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/check-demo.mjs",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "images": "node scripts/prepare-images.mjs",
+    "og": "node scripts/og-images.mjs",
+    "check:demo": "node scripts/check-demo.mjs",
+    "audit": "node scripts/audit.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "lucide-react": "^1.48.0",
     "next": "16.3.7",
+    "next-intl": "^4.14.8",
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },
@@ -18,8 +27,11 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "chrome-launcher": "^1.2.2",
     "eslint": "^9",
     "eslint-config-next": "16.3.7",
+    "lighthouse": "^13.5.0",
+    "sharp": "^0.35.5",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

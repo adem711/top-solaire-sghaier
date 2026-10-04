@@ -1,0 +1,25 @@
+# Top Solaire Sghaier
+
+> Installateur photovoltaïque basé à Sousse (Tunisie), représentant agréé ANME, en activité depuis 2015, plus de 150 installations. Étude gratuite, pose, démarches STEG/ANME et service après-vente. Site en français (/fr) et en arabe (/ar).
+
+## Services
+- Photovoltaïque résidentiel raccordé au réseau STEG (installations réalisées de 1,6 à 9,6 kWc)
+- Pompage solaire agricole (champs de 3 à 7,2 kWc, pompes de 3 à 5,5 CV en 380 V)
+- Chauffe-eau solaire (Soften)
+- Garantie des panneaux jusqu'à 25 ans ; jusqu'à 70 % d'économies sur la facture d'électricité
+
+## Demander une étude gratuite
+- Le canal principal est WhatsApp : https://wa.me/21698452134 (envoyer sa facture STEG mensuelle, sa ville et le type de projet)
+- Téléphone : +216 98 452 134 ou +216 54 109 627 (appels ; WhatsApp uniquement sur le 98 452 134)
+- Formulaire : la page /fr/contact compose un message WhatsApp prérempli (champs : nom, ville, type de projet, facture STEG facultative, message facultatif)
+- Entreprise de service : l'équipe se déplace sur place, sur rendez-vous. Pas d'adresse à visiter ni d'horaires d'ouverture.
+
+## Pages
+- [Accueil](/fr): présentation, simulateur d'économies, réalisations récentes, questions fréquentes
+- [Réalisations](/fr/projets): 10 installations photographiées avec puissance et matériel (filtre ?type=residentiel|pompage|chauffe-eau)
+- [À propos](/fr/a-propos)
+- [Contact](/fr/contact)
+- Version arabe : /ar, /ar/projets, /ar/a-propos, /ar/contact
+
+## بالعربية
+Top Solaire Sghaier: مركّب طاقة شمسية في سوسة منذ 2015، ممثّل معتمد من ANME، أكثر من 150 تركيب. دراسة مجانية، تركيب، ملف الستاغ وخدمة ما بعد البيع. للطلب: واتساب https://wa.me/21698452134 أو الهاتف 98 452 134 / 54 109 627.

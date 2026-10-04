@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.lighthouse/
+/.impeccable/review/
+
+# Owner's source material: Facebook screenshots name client locations and the original photos may carry
+# metadata. Never publish it. The site builds from the processed copies in public/images/.
+/Brand Info/
+
+# Local-only folders
+/Trash/
+/.impeccable/
+/.lighthouse/

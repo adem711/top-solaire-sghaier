@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "siteName": "Top Solaire Sghaier",
+    "home": {
+      "title": "Installation photovoltaïque à Sousse | Top Solaire Sghaier",
+      "description": "Installateur photovoltaïque agréé ANME à Sousse depuis 2015 : étude gratuite, pose, dossier STEG, pompage solaire et chauffe-eau solaire. 150+ installations."
+    },
+    "projects": {
+      "title": "Nos réalisations photovoltaïques | Top Solaire Sghaier",
+      "description": "Photos et fiches techniques de nos installations : photovoltaïque raccordé STEG, pompage solaire agricole et chauffe-eau solaire, de 2,2 à 7,2 kWc."
+    },
+    "about": {
+      "title": "À propos | Top Solaire Sghaier, depuis 2015",
+      "description": "Installateur solaire basé à Sousse depuis 2015, représentant agréé ANME. Étude, pose, démarches STEG et service après-vente par nos propres équipes."
+    },
+    "contact": {
+      "title": "Étude gratuite sur WhatsApp | Top Solaire Sghaier",
+      "description": "Demandez votre étude photovoltaïque gratuite : envoyez-nous votre facture STEG sur WhatsApp au 98 452 134. Nous nous déplaçons chez vous."
+    },
+    "notFound": {
+      "title": "Page introuvable | Top Solaire Sghaier"
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À propos",
+    "contact": "Contact",
+    "cta": "Devis gratuit",
+    "menu": "Menu",
+    "closeMenu": "Fermer le menu",
+    "skip": "Aller au contenu",
+    "primary": "Navigation principale",
+    "switchTo": "عربي",
+    "switchLabel": "Lire cette page en arabe",
+    "homeLink": "Top Solaire Sghaier, accueil"
+  },
+  "hero": {
+    "title": "Produisez votre propre électricité.",
+    "lead": "Étude gratuite, installation et raccordement STEG par nos équipes. Jusqu'à 70 % d'économies sur votre facture d'électricité.",
+    "ctaPrimary": "Demander une étude gratuite",
+    "ctaCall": "Appeler le <ltr>{phone}</ltr>",
+    "trustLabel": "Nos garanties",
+    "trust": {
+      "anme": "Représentant agréé ANME",
+      "since": "Depuis 2015",
+      "installs": "150+ installations"
+    },
+    "plate": {
+      "title": "Installation réalisée",
+      "place": "Toit-terrasse · décembre 2022",
+      "power": "Puissance",
+      "panels": "Panneaux",
+      "inverter": "Onduleur",
+      "grid": "Réseau",
+      "gridValue": "Raccordé STEG"
+    },
+    "photoAlt": "Dix panneaux solaires sur un toit-terrasse à côté d'un palmier, installation de 4 kWc réalisée par Top Solaire Sghaier",
+    "ctaPrimaryShort": "Étude gratuite"
+  },
+  "trust": {
+    "heading": "Top Solaire Sghaier en chiffres",
+    "items": {
+      "installs": {
+        "value": "150+",
+        "label": "installations réalisées"
+      },
+      "years": {
+        "value": "2015",
+        "label": "l'année de notre première installation"
+      },
+      "warranty": {
+        "value": "25 ans",
+        "label": "de garantie sur les panneaux"
+      },
+      "anme": {
+        "value": "ANME",
+        "label": "représentant agréé"
+      }
+    }
+  },
+  "services": {
+    "heading": "Une installation pour chaque toit, chaque puits.",
+    "lead": "Maison, ferme ou commerce : nous étudions votre besoin, posons le matériel et nous occupons des démarches.",
+    "residentiel": {
+      "title": "Photovoltaïque résidentiel",
+      "text": "Des panneaux sur votre toit-terrasse, raccordés au réseau STEG. Vous produisez votre électricité le jour et votre facture baisse.",
+      "points": [
+        "De 1,6 à 9,6 kWc déjà installés",
+        "Dossier STEG et ANME pris en charge",
+        "Onduleurs SolaX et S-Energy"
+      ],
+      "cta": "Parler de mon toit",
+      "alt": "Panneaux solaires sur un toit-terrasse blanc sous un ciel bleu"
+    },
+    "pompage": {
+      "title": "Pompage solaire agricole",
+      "text": "La pompe de votre puits tourne avec le soleil : plus de gasoil à acheter, même loin du réseau.",
+      "points": [
+        "Champs de 3 à 7,2 kWc",
+        "Pompes de 3 à 5,5 CV en 380 V",
+        "Variateurs INVT et USFULL"
+      ],
+      "cta": "Étudier mon puits",
+      "alt": "Champ de panneaux solaires au milieu d'une oliveraie pour alimenter une pompe"
+    },
+    "chauffeEau": {
+      "title": "Chauffe-eau solaire",
+      "text": "De l'eau chaude toute l'année grâce au soleil, posée et raccordée par nos équipes.",
+      "points": [
+        "Chauffe-eau Soften",
+        "Pose et raccordement compris"
+      ],
+      "cta": "Demander un prix",
+      "alt": "Chauffe-eau solaire Soften installé à côté de panneaux photovoltaïques"
+    }
+  },
+  "simulator": {
+    "heading": "Combien pouvez-vous économiser ?",
+    "lead": "Réglez le curseur sur votre facture STEG mensuelle. Le toit se remplit avec les panneaux qu'il vous faudrait.",
+    "billLabel": "Votre facture STEG mensuelle",
+    "unit": "DT / mois",
+    "resultsLabel": "Votre estimation",
+    "kwc": "Puissance conseillée",
+    "panels": "Panneaux de 450 Wc",
+    "production": "Production estimée",
+    "productionUnit": "kWh / an",
+    "savings": "Économie estimée",
+    "savingsValue": "jusqu'à {amount} DT / mois",
+    "roofLabel": "{panels} panneaux sur votre toit",
+    "assumptions": "Estimation indicative : tarif moyen de 0,35 DT/kWh et 1 600 kWh produits par kWc et par an. L'étude gratuite vous donne le chiffre exact.",
+    "cta": "Recevoir une étude précise",
+    "toolDescription": "Estimer la puissance photovoltaïque, le nombre de panneaux, la production annuelle et l'économie mensuelle à partir d'une facture STEG mensuelle. Estimation indicative.",
+    "toolParam": "Facture STEG mensuelle en dinars tunisiens, entre 40 et 600",
+    "presetsLabel": "Montants fréquents",
+    "currency": "DT"
+  },
+  "projectsSection": {
+    "heading": "Des chantiers réels, photographiés par nos équipes.",
+    "lead": "Puissance, panneaux, onduleur : chaque réalisation est présentée avec sa fiche technique.",
+    "seeAll": "Voir nos réalisations photovoltaïques"
+  },
+  "projects": {
+    "heading": "Nos réalisations",
+    "lead": "Toits-terrasses, oliveraies, puits agricoles : quelques-unes de nos 150+ installations, avec la puissance et le matériel posé.",
+    "filterLabel": "Filtrer par type d'installation",
+    "filters": {
+      "all": "Tous",
+      "residentiel": "Résidentiel",
+      "pompage": "Pompage",
+      "chauffe-eau": "Chauffe-eau"
+    },
+    "count": "{count, plural, =0 {Aucune réalisation} one {# réalisation} other {# réalisations}}",
+    "title": {
+      "residentiel": "Installation résidentielle",
+      "pompage": "Pompage solaire",
+      "chauffe-eau": "Chauffe-eau solaire"
+    },
+    "status": "Installé",
+    "panels": "{count, plural, =0 {Panneaux} one {# panneau} other {# panneaux}}",
+    "inverter": "Onduleur",
+    "vfd": "Variateur",
+    "pump": "Pompe {cv} CV",
+    "grid": "Raccordé STEG",
+    "waterHeater": "Chauffe-eau solaire",
+    "sameCta": "Je veux la même installation",
+    "photos": "Voir les {count} photos",
+    "close": "Fermer",
+    "prev": "Photo précédente",
+    "next": "Photo suivante",
+    "photoOf": "Photo {n} sur {total}",
+    "alt": "{title}, {kwc} kWc, photo {n}",
+    "closing": "Votre toit est le prochain ?",
+    "closingText": "Envoyez-nous votre facture STEG : nous vous répondons avec une étude gratuite."
+  },
+  "process": {
+    "heading": "Comment ça se passe",
+    "lead": "Quatre étapes, un seul interlocuteur.",
+    "steps": [
+      {
+        "title": "Étude gratuite",
+        "text": "Envoyez votre facture STEG sur WhatsApp. Nous dimensionnons l'installation selon votre consommation et votre toit."
+      },
+      {
+        "title": "Dossier STEG et ANME",
+        "text": "Nous préparons et déposons les démarches administratives à votre place."
+      },
+      {
+        "title": "Installation",
+        "text": "Nos techniciens posent la structure, les panneaux et l'onduleur, avec un câblage propre et protégé."
+      },
+      {
+        "title": "Mise en service et suivi",
+        "text": "Raccordement, contrôle de la production, puis un service après-vente réactif."
+      }
+    ]
+  },
+  "brands": {
+    "heading": "Le matériel que nous installons",
+    "lead": "Des marques reconnues, choisies pour tenir sous le soleil tunisien.",
+    "groups": {
+      "panels": "Panneaux",
+      "inverters": "Onduleurs",
+      "pumping": "Pompage",
+      "water": "Chauffe-eau"
+    }
+  },
+  "faq": {
+    "heading": "Vos questions",
+    "items": [
+      {
+        "q": "Combien coûte une installation ?",
+        "a": "Le prix dépend de votre consommation, de votre toit et du matériel. C'est pour cela que l'étude est gratuite : envoyez-nous votre facture STEG sur WhatsApp et nous vous répondons avec une proposition chiffrée."
+      },
+      {
+        "q": "Proposez-vous des facilités de paiement ?",
+        "a": "Oui, des facilités de paiement sont possibles. Contactez-nous pour connaître les conditions du moment."
+      },
+      {
+        "q": "Qui s'occupe du dossier STEG ?",
+        "a": "Nous. En tant que représentant agréé ANME, nous préparons le dossier et vous accompagnons jusqu'au raccordement."
+      },
+      {
+        "q": "Combien de temps dure la pose ?",
+        "a": "Pour une maison, la pose se fait en général en quelques jours. Les démarches STEG et ANME prennent plus de temps : nous les suivons pour vous."
+      },
+      {
+        "q": "Quelle est la garantie ?",
+        "a": "Les panneaux sont garantis jusqu'à 25 ans. Après la pose, nous restons joignables pour le service après-vente."
+      },
+      {
+        "q": "Les panneaux demandent-ils beaucoup d'entretien ?",
+        "a": "Très peu. Un nettoyage de temps en temps, surtout après un vent de sable, suffit à garder une bonne production."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Parlons de votre projet.",
+    "lead": "Remplissez ces quelques champs : le message s'ouvre dans WhatsApp, il ne vous reste qu'à l'envoyer.",
+    "callTitle": "Vous préférez appeler ?",
+    "callText": "Ilyes et son équipe répondent au <ltr>{phone}</ltr> ou au <ltr>{phone2}</ltr>."
+  },
+  "form": {
+    "label": "Demande d'étude gratuite",
+    "name": "Votre nom",
+    "city": "Votre ville",
+    "type": "Type de projet",
+    "typeOptions": {
+      "residentiel": "Maison (photovoltaïque)",
+      "pompage": "Ferme ou puits (pompage solaire)",
+      "chauffe-eau": "Chauffe-eau solaire",
+      "entreprise": "Entreprise ou commerce"
+    },
+    "bill": "Facture STEG mensuelle",
+    "optional": "facultatif",
+    "billHint": "En dinars, par exemple 180",
+    "message": "Message",
+    "messagePlaceholder": "Toit-terrasse, puits, question…",
+    "submit": "Envoyer sur WhatsApp",
+    "errors": {
+      "name": "Indiquez votre nom pour que nous sachions qui vous répondre.",
+      "city": "Indiquez votre ville pour préparer la visite.",
+      "bill": "Entrez le montant en chiffres, par exemple 180."
+    },
+    "errorSummary": "Vérifiez le champ signalé avant d'envoyer.",
+    "sent": "WhatsApp s'est ouvert : il ne reste qu'à appuyer sur Envoyer.",
+    "fallback": "WhatsApp ne s'ouvre pas ? Appelez-nous au {phone}.",
+    "toolDescription": "Demander une étude solaire gratuite à Top Solaire Sghaier. Compose un message WhatsApp prérempli vers le +216 98 452 134 que le visiteur doit ensuite envoyer.",
+    "toolParams": {
+      "name": "Nom de la personne qui demande l'étude",
+      "city": "Ville en Tunisie où se trouve le projet",
+      "type": "Type de projet : residentiel (maison), pompage (ferme ou puits), chauffe-eau (chauffe-eau solaire) ou entreprise",
+      "bill": "Montant de la facture STEG mensuelle en dinars tunisiens, chiffres uniquement (facultatif)",
+      "message": "Précisions libres sur le projet (facultatif)"
+    }
+  },
+  "whatsapp": {
+    "greeting": "Bonjour Top Solaire Sghaier 👋",
+    "default": "Je souhaite demander une étude gratuite pour mon projet.",
+    "service": "Je souhaite des informations sur : {service}.",
+    "project": "J'ai vu votre réalisation « {title} » et je souhaite une étude pour une installation similaire.",
+    "simulator": "J'ai fait une simulation sur votre site :\n• Facture STEG : {bill} DT/mois\n• Puissance estimée : {kwc} kWc\n• Panneaux : {panels}\nJe souhaite recevoir une étude précise.",
+    "form": "Je souhaite une étude gratuite.\n• Nom : {name}\n• Ville : {city}\n• Projet : {type}",
+    "formBill": "• Facture STEG : {bill} DT/mois",
+    "formMessage": "• Message : {message}",
+    "fab": "Écrire sur WhatsApp"
+  },
+  "about": {
+    "heading": "Installateurs solaires à Sousse, depuis 2015.",
+    "lead": "Top Solaire Sghaier étudie, pose et raccorde des installations photovoltaïques, des pompages solaires et des chauffe-eau solaires.",
+    "story": [
+      "Depuis 2015, Ilyes Sghaier et son équipe équipent des maisons, des fermes et des commerces avec l'énergie du soleil. Plus de 150 installations plus tard, la méthode n'a pas changé : une étude honnête, un chantier propre et un interlocuteur qui répond.",
+      "Nous faisons tout nous-mêmes, de l'étude à la mise en service, et nous prenons en charge les démarches STEG et ANME à la place de nos clients."
+    ],
+    "valuesHeading": "Notre façon de travailler",
+    "values": [
+      {
+        "title": "Clair",
+        "text": "Des chiffres lisibles et des étapes simples : vous savez ce que vous payez et ce que vous produisez."
+      },
+      {
+        "title": "Chaleureux",
+        "text": "Nous répondons sur WhatsApp, nous passons chez vous et nous restons joignables après la pose."
+      },
+      {
+        "title": "Fiable",
+        "text": "Représentant agréé ANME, matériel de marques reconnues, panneaux garantis jusqu'à 25 ans."
+      }
+    ],
+    "craftHeading": "Un travail soigné, jusque dans l'armoire électrique.",
+    "craftText": "Onduleur fixé, protections installées, câbles rangés dans leurs goulottes : ce que l'on ne voit pas depuis la rue compte autant que les panneaux.",
+    "craftAlt1": "Onduleur SolaX et coffrets de protection alignés sur un mur",
+    "craftAlt2": "Armoire de pompage avec variateur INVT et protections",
+    "craftAlt3": "Onduleur S-Energy et coffrets de protection",
+    "areaHeading": "Nous nous déplaçons chez vous.",
+    "areaText": "Basés à Sousse, nous intervenons sur place : sur votre toit, dans votre ferme ou votre commerce. Les visites se font sur rendez-vous.",
+    "areaLabel": "Zone d'intervention"
+  },
+  "contact": {
+    "heading": "Demandez votre étude gratuite.",
+    "lead": "Le plus rapide : un message WhatsApp avec votre facture STEG. Nous vous répondons avec une proposition adaptée.",
+    "channelsHeading": "Nous joindre directement",
+    "whatsapp": "WhatsApp",
+    "whatsappAction": "Écrire sur WhatsApp",
+    "phone": "Téléphone",
+    "phoneAction": "Appeler",
+    "email": "E-mail",
+    "facebook": "Facebook",
+    "facebookAction": "Suivre nos chantiers",
+    "visitHeading": "Nous nous déplaçons chez vous",
+    "visitText": "Pas de bureau à visiter : notre équipe vient sur place pour étudier votre toit ou votre puits, sur rendez-vous. Nous sommes basés à Sousse.",
+    "phone2": "Téléphone (2e ligne)"
+  },
+  "footer": {
+    "pitch": "Installateur photovoltaïque à Sousse depuis 2015. Étude gratuite, pose, dossier STEG et service après-vente.",
+    "pages": "Pages",
+    "contact": "Contact",
+    "rights": "© {year} Top Solaire Sghaier. Tous droits réservés.",
+    "anme": "Représentant agréé ANME"
+  },
+  "notFound": {
+    "heading": "Cette page n'existe pas.",
+    "text": "Le lien est peut-être ancien ou mal copié. Revenez à l'accueil ou regardez nos réalisations.",
+    "home": "Retour à l'accueil",
+    "projects": "Voir les réalisations"
+  },
+  "common": {
+    "external": "(s'ouvre dans un nouvel onglet)",
+    "phoneAria": "Appeler le {phone}"
+  }
+}
